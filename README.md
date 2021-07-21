@@ -1,2 +1,3 @@
 # Webcam-Motion-Detector
-A program in Python that extracts data from a Real Estate Website using BeautifulSoup. Extracted data is saved in an organized tabular form in a csv file.
+Starts the webcam and detects moving objects using
+OpenCV. Saves the date and time when the objects entered into and exited from the webcam in a csv file. Runs in python console.
